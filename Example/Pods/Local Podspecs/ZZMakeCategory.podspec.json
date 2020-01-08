@@ -1,6 +1,6 @@
 {
   "name": "ZZMakeCategory",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "自定义类别.",
   "description": "自定义类别,快捷工具",
   "homepage": "https://github.com/UserZhangXiaoZhe/ZZMakeCategory",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/UserZhangXiaoZhe/ZZMakeCategory.git",
-    "tag": "1.0.0"
+    "tag": "1.0.1"
   },
   "platforms": {
     "ios": "8.0"

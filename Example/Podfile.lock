@@ -1,5 +1,5 @@
 PODS:
-  - ZZMakeCategory (1.0.0)
+  - ZZMakeCategory (1.0.1)
 
 DEPENDENCIES:
   - ZZMakeCategory (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ZZMakeCategory: b5045a1adc1289417074ebcb710c8539c29af21b
+  ZZMakeCategory: bfa5c3ecc0c24e0b7f33643e8b11dd61b8afd058
 
 PODFILE CHECKSUM: 506bf4ad1820aa8db919c6ecf16e8b46c4421580
 
