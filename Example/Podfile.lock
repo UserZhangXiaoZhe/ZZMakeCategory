@@ -1,0 +1,16 @@
+PODS:
+  - ZZMakeCategory (1.0.0)
+
+DEPENDENCIES:
+  - ZZMakeCategory (from `../`)
+
+EXTERNAL SOURCES:
+  ZZMakeCategory:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZZMakeCategory: b5045a1adc1289417074ebcb710c8539c29af21b
+
+PODFILE CHECKSUM: 506bf4ad1820aa8db919c6ecf16e8b46c4421580
+
+COCOAPODS: 1.8.4
